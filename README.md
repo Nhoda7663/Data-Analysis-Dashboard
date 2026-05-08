@@ -23,8 +23,10 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 -	Made sure data is consistent and clean with respect data type, data format and values used.
 -	Created pivot tables according to the question asked.
 -	Merge all pivots tables into one dashboard and apply slicer to make dynamic.
+  
 ## Dashboard
 <img width="1436" height="755" alt="Dashboard image" src="https://github.com/user-attachments/assets/34a8c72c-e64a-4052-ae60-fe495df20688" />
+
 ## Sample Insight 
 -	Women are more likely to buy compared to men ( 65%)
 -  Maharastra , Karnataka, and uttar Pradesh are the 3 states. (35% )
