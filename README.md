@@ -15,5 +15,6 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 -	Which channel is contributing to maximum sales?
 -	Highest selling category? 
 
-- Dashboard interaction <a href= “https://github.com/Nhoda7663/Data-Analysis-Dashboard/blob/main/Dashboard%20image.jpg”>ViewDashboard </a>  
+## Dashboard interaction
+- <a href= “https://github.com/Nhoda7663/Data-Analysis-Dashboard/blob/main/Dashboard%20image.jpg”>ViewDashboard </a>  
 
