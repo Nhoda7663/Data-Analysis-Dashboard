@@ -16,5 +16,15 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 -	Highest selling category? 
 
 ## Dashboard interaction
-- <a href="https://github.com/Nhoda7663/Data-Analysis-Dashboard/blob/main/Dashboard%20image.jpg">ViewDashboard</a>  
+- <a href="https://github.com/Nhoda7663/Data-Analysis-Dashboard/blob/main/Dashboard%20image.jpg">ViewDashboard</a>
+
+  ## process
+-	Verify Data for any missing values and anomalies, and sort out the same.
+-	Made sure data is consistent and clean with respect data type, data format and values used.
+-	Created pivot tables according to the question asked.
+-	Merge all pivots tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+<img width="1436" height="755" alt="Dashboard image" src="https://github.com/user-attachments/assets/34a8c72c-e64a-4052-ae60-fe495df20688" />
+
+
 
