@@ -27,6 +27,7 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 ## Dashboard
 <img width="1436" height="755" alt="Dashboard image" src="https://github.com/user-attachments/assets/34a8c72c-e64a-4052-ae60-fe495df20688" />
 
+
 ## Sample Insight 
 -	Women are more likely to buy compared to men ( 65%)
 -  Maharastra , Karnataka, and uttar Pradesh are the 3 states. (35% )
@@ -34,7 +35,7 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 - Amazon,Flipkart, and Myntra  channel are max contributing (80%)
 
 ## Final conclusion to improve Vrinda Store sales:
--	Target women customers of age Group (30-49 yrs) living in Maharashtra , Karnataka, Uttar Pradesh, by showing ads/offers/coupons available on amazon Flipkart and Myntra  
+-	Target women customers of age Group (30-49 yrs) living in Maharashtra , Karnataka, Uttar Pradesh, by showing ads/offers/coupons available on amazon Flipkart and Myntra.
 
 
 
