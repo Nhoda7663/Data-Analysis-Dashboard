@@ -25,6 +25,15 @@ Viranda store wants to create an annual sales report for 2025. So that, Vrinda c
 -	Merge all pivots tables into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 <img width="1436" height="755" alt="Dashboard image" src="https://github.com/user-attachments/assets/34a8c72c-e64a-4052-ae60-fe495df20688" />
+## Sample Insight 
+-	Women are more likely to buy compared to men ( 65%)
+-  Maharastra , Karnataka, and uttar Pradesh are the 3 states. (35% )
+- Intermediate  age group (30-49 yrs) is max contributing (50%)
+- Amazon,Flipkart, and Myntra  channel are max contributing (80%)
+
+## Final conclusion to improve Vrinda Store sales:
+-	Target women customers of age Group (30-49 yrs) living in Maharashtra , Karnataka, Uttar Pradesh, by showing ads/offers/coupons available on amazon Flipkart and Myntra  
+
 
 
 
